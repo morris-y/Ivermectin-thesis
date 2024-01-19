@@ -1,5 +1,9 @@
 # Ivermectin-thesis
+### Title
+
 Comparing Texts of Conspiracy Theories and Misinformation by Computational methods: The Case Study of Ivermectin Discussions on Social Media
+
+### Presented in Tokyo and Singapore
 
 This thesis went to 2 international conferences.
 
@@ -7,4 +11,13 @@ This thesis went to 2 international conferences.
 
 2. Yang, M. S. (2024). Comparing Texts of Conspiracy Theories and Misinformation by Computational methods: The Case Study of Ivermectin Discussions on Social Media. The third global STS conference, Nanyang Technological University, Singapore, 22 - 23 February, 2024.
 
-Here are the code and data.
+### Data
+
+Here's the [original Facebook data](https://drive.google.com/file/d/1rcJJpvh5dk0CmJEGybEylTeuRM6hj4tS/view?usp=sharing) fetched by CrowdTangle API.
+
+### Code
+
+"Analysis_LIWC_LDA.R" are the code.
+
+
+
