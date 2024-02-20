@@ -5,7 +5,7 @@ Comparing Texts of Conspiracy Theories and Misinformation by Computational metho
 
 ### Presented in Tokyo and Singapore
 
-This thesis went to 2 international conferences.
+Part of the results of this study went to 2 international conferences.
 
 1. Yang, M. S. (2023). How Conspiracy Theories and Misinformation Overlapped in the Debate of Covid-19 Alternative Drug: A Case Study of “Ivermectin” on Facebook. 2023 UTOKYO-SNU-NCCU International Symposium, Tokyo, Japan, October 27, 2023.
 
